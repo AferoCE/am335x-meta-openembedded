@@ -5,7 +5,7 @@ LICENSE = "BSD"
 LIC_FILES_CHKSUM = "file://PKG-INFO;md5=68f7880de949412b2ea248932d97ed54"
 
 SRCNAME = "M2Crypto"
-SRC_URI = "http://pypi.python.org/packages/source/M/M2Crypto/M2Crypto-${PV}.tar.gz"
+SRC_URI = "https://pypi.python.org/packages/source/M/M2Crypto/M2Crypto-${PV}.tar.gz"
 
 SRC_URI[md5sum] = "89557730e245294a6cab06de8ad4fb42"
 SRC_URI[sha256sum] = "1ac3b6eafa5ff7e2a0796675316d7569b28aada45a7ab74042ad089d15a9567f"
